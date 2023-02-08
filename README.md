@@ -62,13 +62,13 @@ The nltk library offers through the tekenize module a number of tokinzers that a
 Transfer Learning for NLP with TensorFlow Hub
 
 This project/notebook consists of several Tasks.
-Task 1: Introduction to the Project.
-Task 2: Setup your TensorFlow and Colab Runtime
-Task 3: Download and Import the Quora Insincere Questions Dataset
-Task 4: TensorFlow Hub for Natural Language Processing
-Task 5: Define Function to Build and Compile Models
-Task 6: Define Function to Build and Compile Models(Continued...)
-Task 7: Train Various Text Classification Models
-Task 8: Compare Accuracy and Loss Curves
-Task 9: Fine-tuning Models from TF Hub
-Task 10: Train Bigger Models and Visualize Metrics with TensorBoard
+- Task 1: Introduction to the Project.
+- Task 2: Setup your TensorFlow and Colab Runtime
+- Task 3: Download and Import the Quora Insincere Questions Dataset
+- Task 4: TensorFlow Hub for Natural Language Processing
+- Task 5: Define Function to Build and Compile Models
+- Task 6: Define Function to Build and Compile Models(Continued...)
+- Task 7: Train Various Text Classification Models
+- Task 8: Compare Accuracy and Loss Curves
+- Task 9: Fine-tuning Models from TF Hub
+- Task 10: Train Bigger Models and Visualize Metrics with TensorBoard
