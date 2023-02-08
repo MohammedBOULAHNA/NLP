@@ -28,12 +28,12 @@ The nltk library offers through the tekenize module a number of tokinzers that a
 
 ## 2. Syntactic semanti similarities between documents
 
-• WSD
-• Bag of Words ,
-• TF-IDF
-• LSA/SVD
-• Word2vec
-• GloVe
+- WSD
+- Bag of Words
+- TF-IDF
+- LSA/SVD
+- Word2vec
+- GloVe
 
 
 ## 3. Clustering Document 
