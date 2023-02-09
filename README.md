@@ -74,7 +74,7 @@ This project/notebook consists of several Tasks.
 - Task 10: Train Bigger Models and Visualize Metrics with TensorBoard
 
 ## 7. ABSA with_Spacy and TextBlob Sentiment analysis:
-- TextBlob est une bibliothèque qui propose une analyse des sentiments prête à l'emploi. Il a une approche par sac de mots, ce qui signifie qu'il a une liste de mots tels que «bon», «mauvais» et «excellent» qui ont un score de sentiment qui leur est attaché. Il est également capable de sélectionner des modificateurs (tels que «not») et des intensificateurs (tels que «very») qui affectent le score de sentiment. 
+-TextBlob is a library that provides out-of-the-box sentiment analysis. It has a bag-of-words approach, which means that it has a list of words such as "good", "bad" and "excellent" that have a sentiment score attached to them. It is also able to select modifiers (such as "not") and intensifiers (such as "very") that affect the sentiment score.  
 
 ## 8. Logistic Regression based sentiment analysis :
 * Extract features for logistic regression 
