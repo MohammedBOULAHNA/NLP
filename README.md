@@ -26,7 +26,7 @@ The nltk library offers through the tekenize module a number of tokinzers that a
 
 
 
-## 2. Syntactic semanti similarities between documents
+## 2. Plagiat_detection (Syntactic_Semantic_ similarities_between_Documents)
 
 - WSD
 - Bag of Words
