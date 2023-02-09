@@ -72,3 +72,17 @@ This project/notebook consists of several Tasks.
 - Task 8: Compare Accuracy and Loss Curves
 - Task 9: Fine-tuning Models from TF Hub
 - Task 10: Train Bigger Models and Visualize Metrics with TensorBoard
+
+## 7. ABSA with_Spacy and TextBlob Sentiment analysis:
+- TextBlob est une bibliothèque qui propose une analyse des sentiments prête à l'emploi. Il a une approche par sac de mots, ce qui signifie qu'il a une liste de mots tels que «bon», «mauvais» et «excellent» qui ont un score de sentiment qui leur est attaché. Il est également capable de sélectionner des modificateurs (tels que «not») et des intensificateurs (tels que «very») qui affectent le score de sentiment. 
+
+## 8. Logistic Regression based sentiment analysis :
+* Extract features for logistic regression 
+* Implement logistic regression from scratch
+* Apply LR for sentiment analysis 
+* Test your model 
+* error analysis
+## 9. IMDB-LSTM with CNN : 
+- This is a dataset of 25,000 movie reviews from IMDB, labeled by sentiment (positive / negative). The reviews have been pre-processed and each review is coded as a list of (integer) word indexes. For convenience, the words are indexed by their overall frequency in the dataset, so that, for example, the integer "3" codes the 3rd most frequent word in the data. 
+
+## 10. Exploring Data.
